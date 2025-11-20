@@ -7,8 +7,8 @@
 // @match        https://www.geocaching.com/account/drafts*
 // @run-at       document-end
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/TWOJ_LOGIN/TWOJE_REPO/main/gc-drafts-pgc-checker.user.js
-// @updateURL    https://raw.githubusercontent.com/TWOJ_LOGIN/TWOJE_REPO/main/gc-drafts-pgc-checker.user.js
+// @downloadURL  https://github.com/sernikk-gc/GC-scripts/raw/refs/heads/main/GC%20Drafts%20-%20PGC%20Checker.user.js
+// @updateURL    https://github.com/sernikk-gc/GC-scripts/raw/refs/heads/main/GC%20Drafts%20-%20PGC%20Checker.user.js
 // ==/UserScript==
 
 (function () {
